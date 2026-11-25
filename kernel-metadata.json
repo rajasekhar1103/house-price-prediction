@@ -1,0 +1,16 @@
+{
+  "id": "rajasekhar1103/sarcastic-dataset-generator-6000",
+  "title": "Sarcastic Dataset Generator 4000",
+  "code_file": "Sarcastic_Dataset_Generator_6000.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "dataset_sources": [
+    "rajasekhar1103/sarcastic-conversation-dataset-4000"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
